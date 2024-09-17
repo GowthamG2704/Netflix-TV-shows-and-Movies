@@ -17,6 +17,6 @@ This project analyzes Netflix's content catalog to uncover key insights about th
 
 ## Files in the Project
 - `netflix_titles.csv`: The dataset used for analysis.
-- `netflix_analysis.ipynb`: Jupyter notebook containing the entire code for data cleaning, analysis, and visualizations.
+- `Project.ipynb`: Jupyter notebook containing the entire code for data cleaning, analysis, and visualizations.
 - `README.md`: This file.
 
